@@ -6,20 +6,20 @@ Building practical experience through a homelab and projects.
 
 ## Projects
 
-**Cybersecurity Homelab**
+[**Cybersecurity Homelab**](https://github.com/outercastl3/cybersecurity_homelab_setup)
 pfSense firewall, Wazuh SIEM, Active Directory.
 Attack simulations with full incident response documentation
 and MITRE ATT&CK mapping.
 
-**Custom Wazuh Detection Rules**
+[**Custom Wazuh Detection Rules**](https://github.com/outercastl3/cybersecurity_homelab_setup/tree/master/custom_wazuh_rules)
 Threshold and correlation based rules.
 Written to reduce noise and improve detection of multi-stage attacks.
 
 **Python Security Tooling**
-Log parser and IOC enrichment tool integrating
+[Log parser](https://github.com/outercastl3/soc_log_parser) and [IOC enrichment tool](https://github.com/outercastl3/ioc_tool) integrating
 AbuseIPDB and VirusTotal APIs.
 
-**C Network Scanner**
+[**C Network Scanner**](https://github.com/outercastl3/c_projects/tree/master/port_scanner)
 Low level TCP port scanner.
 Working towards raw socket and packet crafting implementation.
 
