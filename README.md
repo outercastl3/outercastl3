@@ -1,17 +1,32 @@
-# About Me
-CS student self-studying cybersecurity on the side
-With focus on building hands-on, real-world experience
+# Bogdan Ermakov
 
-## My current works
-- Cybersecurity homelab - pfSense, Wazuh SIEM and appropriate attack scenarios
-- Several Python scripts with focus towards Security tooling
+CS student. Focused on cybersecurity with a long term goal
+in penetration testing or cloud security.
+Building practical experience through a homelab and projects.
 
-## Tech i worked with
-- Python | Bash | Git
-- Linux (Kali, Ubuntu) | Windows | OpenBSD
-- Wazuh | pfSense| KVM
+## Projects
+
+**Cybersecurity Homelab**
+pfSense firewall, Wazuh SIEM, Active Directory.
+Attack simulations with full incident response documentation
+and MITRE ATT&CK mapping.
+
+**Custom Wazuh Detection Rules**
+Threshold and correlation based rules.
+Written to reduce noise and improve detection of multi-stage attacks.
+
+**Python Security Tooling**
+Log parser and IOC enrichment tool integrating
+AbuseIPDB and VirusTotal APIs.
+
+**C Network Scanner**
+Low level TCP port scanner.
+Working towards raw socket and packet crafting implementation.
+
+## Tech
+- Python | Bash | Git | C (learning)
+- Linux (Kali, Ubuntu, Fedora) | Windows Server | OpenBSD | Windows 11
+- Wazuh | pfSense | KVM | Active Directory
 
 ## Languages
-- Russian
-- German
-- English
+Russian | German | English
