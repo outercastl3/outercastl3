@@ -19,9 +19,8 @@ Written to reduce noise and improve detection of multi-stage attacks.
 [Log parser](https://github.com/outercastl3/soc_log_parser) and [IOC enrichment tool](https://github.com/outercastl3/ioc_tool) integrating
 AbuseIPDB and VirusTotal APIs.
 
-[**C Network Scanner**](https://github.com/outercastl3/c_projects/tree/master/port_scanner)
-Low level TCP port scanner.
-Working towards raw socket and packet crafting implementation.
+[**C Network Scanner**](https://github.com/outercastl3/syn-scanner)/
+Low level TCP port scanner with Raw Socket implementation
 
 ## Tech
 - Python | Bash | Git | C (learning)
